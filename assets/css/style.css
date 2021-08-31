@@ -1,0 +1,30 @@
+.main-header{
+  color: crimson;
+  text-align: center;
+  text-transform: uppercase;
+}
+.art-header{
+  color: rgb(87, 11, 51);
+  font-size: 49px;
+  text-transform: capitalize;
+}
+.art-header + p {
+  font-family: Roboto;
+   font-size: 22px;
+   font-weight: 400;
+   font-style: oblique;
+   font-family: Merriweather;
+   line-height: 1.3em;
+   text-align: justify;
+}
+.page-link{
+  text-decoration: line-through 3px wavy deeppink;
+  /* text-decoration-line: overline; 
+  text-decoration-thickness: 3px;
+  text-decoration-style: double;
+  text-decoration-color: violet; */
+}
+.aline-cenetr{
+  text-align: center;
+  font-size: 52px;
+}
