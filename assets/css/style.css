@@ -1,16 +1,18 @@
-.main-article{
-  font-size: 60px;
-  border:violet 4px solid;
-  color: chartreuse;
-}
-.article-header{
-  font-size: 1.1em;
-  border: inherit;
-}
-.article-content{
-  font-size: initial;
-}
-.article-link{
-  color: rgb(109, 91, 173);
-  text-decoration: none;
+.img{
+ width: 400px;
+ box-sizing: border-box;
+ /* height: 400px;  */
+ border: 3px solid  skyblue;
+ padding: 10px;
+/* padding-left: 5px;
+padding-right: 10px;
+padding-top: 15px;
+padding-bottom: 20px; */
+
+ /* margin: 50px; */
+ /* border: 5px solid chartreuse;
+ border-left: darkblue;
+ border-right-style: dotted;
+ border-right-color: rgb(131, 53, 101);
+ border-top-width: 25px; */
 }
