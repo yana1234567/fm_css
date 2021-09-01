@@ -1,26 +1,11 @@
 .img{
  width: 400px;
+ height: 300px;
  box-sizing: border-box;
  border: 3px solid  skyblue;
- padding: 10px;
+ border-radius: 15px;
+ padding: 15px;
  margin: 10px auto;
- display: block;
+ object-fit: cover;
+ object-position: top;
 }
- .span{
-   width: 300px;
-   border: 3px solid skyblue;
-   padding: 15px;
-   margin: 83px;
-   display: block;
- }
- .div{
-   width: 100px;
-   border: 3px solid skyblue;
-   margin: 20px;
-   display: inline-block;
-
- }
- .align-center{
-   margin: 10px auto;
-   text-align: center;
- }
