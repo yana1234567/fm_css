@@ -1,30 +1,16 @@
-.main-header{
-  color: crimson;
-  text-align: center;
-  text-transform: uppercase;
+.main-article{
+  font-size: 60px;
+  border:violet 4px solid;
+  color: chartreuse;
 }
-.art-header{
-  color: rgb(87, 11, 51);
-  font-size: 49px;
-  text-transform: capitalize;
+.article-header{
+  font-size: 1.1em;
+  border: inherit;
 }
-.art-header + p {
-  font-family: Roboto;
-   font-size: 22px;
-   font-weight: 400;
-   font-style: oblique;
-   font-family: Merriweather;
-   line-height: 1.3em;
-   text-align: justify;
+.article-content{
+  font-size: initial;
 }
-.page-link{
-  text-decoration: line-through 3px wavy deeppink;
-  /* text-decoration-line: overline; 
-  text-decoration-thickness: 3px;
-  text-decoration-style: double;
-  text-decoration-color: violet; */
-}
-.aline-cenetr{
-  text-align: center;
-  font-size: 52px;
+.article-link{
+  color: rgb(109, 91, 173);
+  text-decoration: none;
 }
